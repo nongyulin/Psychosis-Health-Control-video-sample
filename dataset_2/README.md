@@ -304,7 +304,6 @@
 * Age at diagnosis: 14
 
 ## [Health and weight (young people)](https://www.healthtalk.org/health-and-weight/food-and-eating)
-`Food and eating`
 ### no_001.mp4 <01'51''> ---> n_sample_001~_004.mp4
 * Age at interview: 17
 * Sex: Female
@@ -316,7 +315,6 @@
 * Age at interview: 17
 * Sex: Female
 
-`Obsessing about food`
 ### no_004.mp4 <04'02''> ---> n_sample_014~_021.mp4
 * Sex: Female
 
@@ -335,7 +333,6 @@
 * Age at interview: 23
 * Sex: Male
 
-`The media, weight and body image`
 ### no_009.mp4 <01'48''> ---> n_sample_039~_042.mp4
 * Sex: Female
 
@@ -351,7 +348,6 @@
 ### no_013.mp4 <02'57''> ---> n_sample_053~_058.mp4
 * Sex: Female
 
-`Low moods, depression and weight`
 ### no_014.mp4 <02'32''> ---> n_sample_059~_063.mp4
 * Age at interview: 18
 * Sex: Female
@@ -362,7 +358,6 @@
 ### no_016.mp4 <03'28''> ---> n_sample_070~_076.mp4
 * Sex: Female
 
-`School, education and weight`
 ### no_017.mp4 <03'46''> ---> n_sample_077~_084.mp4
 * Sex: Male
 
@@ -375,7 +370,6 @@
 ### no_020.mp4 <00'58''> ---> n_sample_095~_096.mp4
 * Sex: Female
 
-`Bullying and weight`
 ### no_021.mp4 <01'27''> ---> n_sample_097~_099.mp4
 * Sex: Female
 
@@ -385,7 +379,6 @@
 ### no_023.mp4 <01'18''> ---> n_sample_109~_111.mp4
 * Sex: Female
 
-`Clothes, shopping and weight`
 ### no_024.mp4 <03'04''> ---> n_sample_112~_117.mp4
 * Sex: Female
 
@@ -395,7 +388,6 @@
 ### no_026.mp4 <00'41''> ---> n_sample_122~_123.mp4
 * Sex: Male
 
-`Dieting`
 ### no_027.mp4 <01'05''> ---> n_sample_124~_125.mp4
 * Sex: Female
 
@@ -410,7 +402,6 @@
 * Age at interview: 17
 * Sex: Female
 
-`Healthy eating`
 ### no_031.mp4 <02'21''> ---> n_sample_135~_139.mp4
 * Sex: Male
 
@@ -421,7 +412,6 @@
 ### no_033.mp4 <02'41''> ---> n_sample_148~_153.mp4
 * Sex: Female
 
-`Exercising`
 ### no_034.mp4 <01'26''> ---> n_sample_154~_156.mp4
 * Sex: Male
 
@@ -435,7 +425,6 @@
 * Age at interview: 17
 * Sex: Female
 
-`Friends, relationships and weight`
 ### no_038.mp4 <01'37''> ---> n_sample_168~_170.mp4
 * Sex: Female
 
@@ -453,7 +442,6 @@
 * Age at interview: 17
 * Sex: Female
 
-`Treatments through GPs, dietitians, counselling and surgery`
 ### no_043.mp4 <02'32''> ---> n_sample_191~_195.mp4
 * Sex: Female
 
@@ -466,19 +454,16 @@
 ### no_046.mp4 <03'09''> ---> n_sample_203~_208.mp4
 * Sex: Male
 
-`Community weight management programmes`
 ### no_047.mp4 <01'32''> ---> n_sample_209~_211.mp4
 * Age at interview: 17
 * Sex: Female
 
-`Finding advice and information about healthy weight`
 ### no_048.mp4 <01'58''> ---> n_sample_212~_215.mp4
 * Sex: Female
 
 ### no_049.mp4 <02'24''> ---> n_sample_216~_220.mp4
 * Sex: Female
 
-`Feeling good about yourself`
 ### no_050.mp4 <05'13''> ---> n_sample_221~_231.mp4
 * Sex: Male
 
@@ -497,7 +482,6 @@
 ### no_054.mp4 <00'55''> ---> n_sample_244~_245.mp4
 * Sex: Female
 
-`Advice to other young people, schools and parents`
 ### no_055.mp4 <01'35''> ---> n_sample_246~_248.mp4
 * Sex: Female
 
@@ -522,6 +506,5 @@
 ### no_061.mp4 <00'59''> ---> n_sample_260~_261.mp4
 * Sex: Female
 
-`Messages to health professionals`
 ### no_062.mp4 <01'34''> ---> n_sample_262~_264.mp4
 * Sex: Male
